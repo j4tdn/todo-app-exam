@@ -1,1 +1,1 @@
-# todo-app-exam
+VERSION: TODO-APP-4.0-SNAPSHOT
